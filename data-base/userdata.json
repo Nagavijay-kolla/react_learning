@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "firstName": "Kolla",
+      "lastName": "Nagavijay",
+      "email": "kn@gmail.com",
+      "mobile": "1231231231",
+      "password": "kkkkkk",
+      "createdAt": "2019-03-03T17:09:17.829Z",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "firstName": "Sachin",
+      "lastName": "",
+      "email": "st@gmail.com",
+      "mobile": "9090909090",
+      "password": "111111",
+      "updatedAt": "2019-03-04T07:04:26.916Z"
+    },
+    {
+      "firstName": "Ramakrishna",
+      "lastName": "Baddigam",
+      "email": "ramakrishna.gmail.com",
+      "mobile": "8297062966",
+      "password": "ramakrishna",
+      "createdAt": "2019-03-03T17:16:50.333Z",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "firstName": "Ravi",
+      "lastName": "Teja",
+      "email": "rt@gmail..com",
+      "mobile": "1212312311",
+      "password": "111111",
+      "updatedAt": "2019-03-04T07:03:20.944Z"
+    },
+    {
+      "id": 8,
+      "firstName": "Harsha",
+      "lastName": "kolla",
+      "email": "hk@gmail.com",
+      "mobile": "1323121212",
+      "password": "111111",
+      "updatedAt": "2019-03-04T07:02:58.152Z"
+    },
+    {
+      "id": 9,
+      "firstName": "Sukumar",
+      "lastName": "D",
+      "email": "sd@sd.com",
+      "mobile": "1212211212",
+      "password": "111111",
+      "updatedAt": "2019-03-04T07:03:31.180Z"
+    },
+    {
+      "id": 10,
+      "firstName": "SC",
+      "lastName": "G",
+      "email": "scg@gmail.com",
+      "mobile": "1231231231",
+      "password": "11",
+      "updatedAt": "2019-03-04T07:05:23.371Z"
+    },
+    {
+      "firstName": "Sravan",
+      "lastName": "Kumar",
+      "email": "sravan@gmail.com",
+      "mobile": "1231231231",
+      "password": "123123",
+      "createdAt": "2019-03-04T07:07:14.579Z",
+      "id": 11
+    },
+    {
+      "firstName": "Brahmmi ",
+      "lastName": "SE",
+      "email": "brammi@gmail.com",
+      "mobile": "1231231231",
+      "password": "123123123",
+      "createdAt": "2019-03-04T07:07:54.437Z",
+      "id": 12
+    }
+  ]
+}
