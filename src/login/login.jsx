@@ -39,7 +39,7 @@ class Login extends Component{
         let password = this.state.password;
         axios.get('http://localhost:3000/users').then(res => {
             var isUserExist =  res.data.find(function(user){
-                return (user.email === email && user.password == password);
+                return (user.email === email && user.password === password);
             });
             if(isUserExist){
                 this.props.history.push("/employees");
